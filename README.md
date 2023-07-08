@@ -1,1 +1,1 @@
-# Numerical-Method
+# Numerical-Method for machine learning
